@@ -17,30 +17,22 @@ export default function Navbar() {
             <div className="navbar">
                 <img className="logotype" src={Logo} alt="Logo totallook"onClick={()=>handlePath('/')}/>  
                 <div classnames="promotions">
-									<ul className="mainNav">
-										<li><a href="#" onClick={()=>handlePath('/clothes')}>CLOTHES</a></li>
-										<li><a href="#" onClick={()=>handlePath('/accessories')}>ACCESORIES</a></li>
-										<li><a href="#" onClick={()=>handlePath('/shoes')}>SHOES</a></li>
-										<li><a href="#" onClick={()=>handlePath('/sports')}>SPORTS</a></li>
-										<li><a href="#" onClick={()=>handlePath('/kids')}>KIDS</a></li>
-										<li></li>
-									</ul>
-									<div>
-                    <h1><a href="#" onClick={()=>handlePath('/offers')}>MORE OFFERS</a></h1>  
-									</div>
-								</div> 
-            <div className="linkModals">
+					<ul className="mainNav">
+						<li><a href="#" onClick={()=>handlePath('/clothes')}>CLOTHES</a></li>
+						<li><a href="#" onClick={()=>handlePath('/accessories')}>ACCESORIES</a></li>
+						<li><a href="#" onClick={()=>handlePath('/shoes')}>SHOES</a></li>
+						<li><a href="#" onClick={()=>handlePath('/sports')}>SPORTS</a></li>
+						<li><a href="#" onClick={()=>handlePath('/kids')}>KIDS</a></li>
+						<li></li>
+					</ul>
+		     		<div>
+                        <h1><a href="#" onClick={()=>handlePath('/offers')}>MORE OFFERS</a></h1>  
+					</div>
+				</div> 
+                {/* <div className="linkModals">
                     <ModalLogin/>
-            </div>      
-                {/* <div class="categories">
-                    <h2>SHOES</h2>
-                    <h2>SPORTS</h2>
-                    <h2>ACCESORIES</h2>
-                    <h2>KIDS</h2>
-                </div> */}
-    
+                </div>       */}
             </div>
-            
         </div>
     )
 }
