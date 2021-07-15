@@ -1,4 +1,4 @@
-![](/total_look/src/assets/logo.png) 
+![](/total_look/src/assets/logoreadme.jpg) 
 
 # Boutique, Fashion & Clothes 
 # Digital Retail challenge
