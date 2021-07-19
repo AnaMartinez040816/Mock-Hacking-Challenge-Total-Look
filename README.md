@@ -1,4 +1,4 @@
-![](/total_look/src/assets/logoreadme.jpg) 
+![logo de la marca](/total_look/src/assets/logoreadme.jpg) 
 
 # Boutique, Fashion & Clothes 
 # Digital Retail challenge
@@ -68,5 +68,5 @@ Se desarrollaron las siguientes historias de usuario:
 
 Esta es una demostración:
 
-![](/src/assets/demo.gif)
+![demo](/total_look/src/assets/demo.gif)
 
