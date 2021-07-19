@@ -66,4 +66,7 @@ Se desarrollaron las siguientes historias de usuario:
 
 ## 5. Usabilidad.
 
-Se puede ejecutar con el siguiente comando en el navegador
+Esta es una demostración:
+
+![](/src/assets/demo.gif)
+
